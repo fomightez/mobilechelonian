@@ -28,5 +28,5 @@ Using it looks like this::
 
 .. image:: sample.png
 
-.. image:: http://mybinder.org/badge.svg
-   :target: https://beta.mybinder.org/v2/gh/takluyver/mobilechelonian/master?filepath=try.ipynb
+.. image:: https://mybinder.org/badge_logo.sv
+   :target: https://beta.mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
