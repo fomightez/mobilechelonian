@@ -1,5 +1,4 @@
-.. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
+|badge|
 
 *"Nevertheless... the turtle moves!"* - Small Gods, by Terry Pratchett
 
@@ -34,3 +33,7 @@ Using it looks like this::
 .. image:: https://mybinder.org/badge_logo.svg
    :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
 
+
+
+.. |badge| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
