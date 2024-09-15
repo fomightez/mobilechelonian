@@ -1,3 +1,6 @@
+.. image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
+
 *"Nevertheless... the turtle moves!"* - Small Gods, by Terry Pratchett
 
 This is a Turtle module for the Jupyter Notebook. It's based on code by
@@ -29,4 +32,5 @@ Using it looks like this::
 .. image:: sample.png
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://beta.mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
+   :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
+
