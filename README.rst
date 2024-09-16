@@ -31,9 +31,9 @@ Using it looks like this::
 .. image:: sample.png
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
+   :target: https://mybinder.org/v2/gh/takluyver/mobilechelonian/master?filepath=try.ipynb
 
 
 
 .. |badge| image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/fomightez/mobilechelonian/master?filepath=try.ipynb
+   :target: https://mybinder.org/v2/gh/takluyver/mobilechelonian/master?filepath=try.ipynb
